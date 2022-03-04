@@ -1,10 +1,7 @@
-- 👋 Hi, I’m IU4ALH  Antonino,  
-- 👀 I’m interested in HamRadio projects , Arduino projects, Si47xx radio projects..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-IU4ALH/IU4ALH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi..
+- this is a sketch in .ino file for  dsp Radio receiver with chip Si4732 or Si4735 
+- use ESP32 arduino Board and 2.8 TFT display touchscreen.
+- code and job this file is a great PE0MGB Gert...and PU2CLR Ricardo for Si4735 library and SSB patch,
+-  i have only added a few changes in screen look and i have added functions fully RDS services on FM broadcasting
+-   ( station name, news and info, Time station).
+- For all library in use, schematic, etc. please refer on PE0MGB Github and PU2CLR Github. 
