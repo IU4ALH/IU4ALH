@@ -1,7 +1,11 @@
 - Hi..
-- this is a sketch in .ino file for  dsp Radio receiver with chip Si4732 or Si4735 
-- use ESP32 arduino Board and 2.8 TFT display touchscreen.
-- code and job this file is a great PE0MGB Gert...and PU2CLR Ricardo for Si4735 library and SSB patch,
--  i have only added a few changes in screen look and i have added functions fully RDS services on FM broadcasting
+- this is a sketchs in .ino files for  dsp Radio receiver with chip Si4732 or Si4735 .
+- Use ESP32 arduino Boards and 2.8 TFT display touchscreen  TFT_eSPI Ili9341, and also version for 3.5 - 4.0 inch displays touchscreen TFT_eSPI Ili9488
+- ( with the help of YO2LDK Alex for adaptation to 3.5 - 4.0 inch displays).
+- Initial code and job this files is a great PE0MGB Gert ( V. 3.5.ino) ...and PU2CLR Ricardo for Si4735 library and SSB patch,
+- Mod. V. 4.0 ( original) made by Bernard Binns,
+- Mod. V. 5.2a made by me  IU4ALH Antonino...( all two versions for 2.8 and for 3.5 - 4.0 inch displays);
+- i have only added a few changes in screen look and i have added functions fully RDS services on FM broadcasting
 -   ( station name, news and info, Time station).
+-   In the repository you will also find all the necessary and correct libraries to work with the Si4735 / 32 chip and the TFT_eSPI displays.
 - For all library in use, schematic, etc. please refer on PE0MGB Github and PU2CLR Github. 
