@@ -7,5 +7,6 @@
 - Mod. V. 5.2a made by me  IU4ALH Antonino...( all two versions for 2.8 and for 3.5 - 4.0 inch displays);
 - i have only added a few changes in screen look and i have added functions fully RDS services on FM broadcasting
 -   ( station name, news and info, Time station).
+- Also new updated  booth firmwares  (2.8  and 4.0 inch displays , versions 5.3a WiFI- 5.3b WIFI) ,Time/Date via Wi-Fi  ( only for user with wi-fi ) made by friend Emphi Erte.
 -   In the repository you will also find all the necessary and correct libraries to work with the Si4735 / 32 chip and the TFT_eSPI displays.
 - For all library in use, schematic, etc. please refer on PE0MGB Github and PU2CLR Github. 
