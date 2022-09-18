@@ -7,6 +7,7 @@
 - Mod. V. 5.2a made by me  IU4ALH Antonino...( all two versions for 2.8 and for 3.5 - 4.0 inch displays);
 - i have only added a few changes in screen look and i have added functions fully RDS services on FM broadcasting
 -   ( station name, news and info, Time station).
-- Also new updated  booth firmwares  (2.8  and 4.0 inch displays , versions 5.3a WiFI- 5.3b WIFI) ,Time/Date via Wi-Fi  ( only for user with wi-fi ) made by friend Emphi Erte.
+- Also new updated  booth firmwares  (2.8  and 4.0 inch displays , versions 5.3a WiFI- 5.3b WIFI) ,Time/Date via Wi-Fi  ( only for user with wi-fi ) made by friend Emphi Erte from Indonesia.
+Now also the new firmware updated to 17.09.2022 (for 2.4 and 2.8 inch displays), version V.5.2b and version V.5.2b "Dark-Mode", with implementation of the Squelch function (activated by the "SQLCH" button ( put in place of the "CHIP" key which does not seem to be a very useful function), or by pressing the encoder button ... a first press for Volume, a second press for Squelch ... and adjustable by rotating the encoder ( values from 0 -no squelch- to 50 -max squelch-) masterfully made by our friend Lyle Hancock Sr. from the USA.
 -   In the repository you will also find all the necessary and correct libraries to work with the Si4735 / 32 chip and the TFT_eSPI displays.
 - For all library in use, schematic, etc. please refer on PE0MGB Github and PU2CLR Github. 
