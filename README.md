@@ -19,3 +19,6 @@ They were passed on to me by my dear friend Silvio Assunçao who created them wi
 
 -2- the second file (ats25miniv2.rar) is a complete receiver project similar to the ATS25, but much miniaturised. In addition to the PCB project, demonstration photos and an electrical diagram are also included in the file... needless to remember that SMD components are used due to its miniaturization.
 * - Both projects have already provided all the hardware options related to the latest firmware at the moment most developed ( V 4.15 Air by Bernard Binns - download on harduino.ru ), including the CW-RTTY-FeldHell digital signal decoder - visualization of audio spectrum and waterfall graphs; automatic switching of FM/AM-SW antennas; full battery check ; display brightness control; and other options...
+
+* I have also added another project " RX_SI4732_35_-IK8SUT_PROJECT.zip " complete with diagrams and Si4732/35 receiver PCB - esp32 - with digital mode decoder, created by the very good and dear friend IK8SUT Antonio Lalopa, but this time standard components are used (to the delight of those who, like me, love this type of montage...).
+The possibility of mounting the 38-pin ESP32 card is inserted in the PCB, in the two versions, both the wider and the narrower one; as well as the mounting of the Si4735 chip or the Si4732 chip is supported.
