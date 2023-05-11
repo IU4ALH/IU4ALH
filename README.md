@@ -13,7 +13,9 @@ Also the new firmware updated to 17.09.2022 (for 2.4 and 2.8 inch displays), ver
 - For all library in use, schematic, etc. please refer on PE0MGB Github and PU2CLR Github. 
 
 I added two files.rar : si473x_ESP32_V2_PCB _Receiver.rar and ats25miniv2.rar .
--They were passed on to me by my dear friend Silvio Assunçao who created them with true mastery.
+They were passed on to me by my dear friend Silvio Assunçao who created them with true mastery.
+
 -1- The first file (si473x_ESP32_V2_PCB _Receiver.rar) refers to the project (Gerbers) of a PCB (smd components) for the construction of a receiver with ESP32 - Si4732/35 - and the possibility of inserting multiple displays of different sizes, in fact it is possible to insert a 2.4 - 2.8 - 3.2 inch TFT display - touch- driver Ili9341, as well as a 3.5 inch TFT display - touch- driver Ili9488 (it is however also possible to insert a 4.0 inch display);
+
 -2- the second file (ats25miniv2.rar) is a complete receiver project similar to the ATS25, but much miniaturised. In addition to the PCB project, demonstration photos and an electrical diagram are also included in the file... needless to remember that SMD components are used due to its miniaturization.
 * - Both projects have already provided all the hardware options related to the latest firmware at the moment most developed ( V 4.15 Air by Bernard Binns - download on harduino.ru ), including the CW-RTTY-FeldHell digital signal decoder - visualization of audio spectrum and waterfall graphs; automatic switching of FM/AM-SW antennas; full battery check ; display brightness control; and other options...
