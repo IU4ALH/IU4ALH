@@ -22,5 +22,7 @@ They were passed on to me by my dear friend Silvio Assunçao who created them wi
 
 -3-the third file (si473X_PCB_ V6.2.zip) is the same project, but where mostly standard components are used, minimizing the use of SMDs.
 
+I have upload also this file from Silvio Assuncao..."Si473x PCB board v.7.zip"  ... same pcb , but in one piece of board, which after printing will have to be cut manually along the line traced on it PCBs.This work was necessary because in the previous version V. 6.2, when inserting the gerber files on the JLCPCB site to order their printing, the system indicated that there were two cards to be printed, and not one, therefore it was requested an added expense that increased the overall cost of the PCBs; in this way the PCB now appears to be in a single piece to be printed and the system recognizes only one piece, without adding further costs.
+
 * I have also added another project " RX_SI4732_35_-IK8SUT_PROJECT.zip " complete with diagrams and Si4732/35 receiver PCB - esp32 - with digital mode decoder, created by the very good and dear friend IK8SUT Antonio Lalopa, but this time standard components are used (to the delight of those who, like me, love this type of montage...).
 The possibility of mounting the 38-pin ESP32 card is inserted in the PCB, in the two versions, both the wider and the narrower one; as well as the mounting of the Si4735 chip or the Si4732 chip is supported.
