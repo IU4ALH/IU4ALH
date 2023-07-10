@@ -1,0 +1,11 @@
+connessioni modulo Bluetoot  KCX_BT_EMITTER  V.1.7
+
+Red =5 Volt Plus
+
+Green Power GND
+
+Blue= Audio GND
+
+Orange = Audio Right Channe
+
+White = Audio Left Channel
