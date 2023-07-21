@@ -1,0 +1,14 @@
+  csv,                application/txt
+  lng,                application/txt
+  ini,                application/txt
+  gif,                image/gif
+  jpg,                image/jpeg
+  jpeg,               image/jpeg
+  png,                image/png
+  css,                text/css; charset=utf-8
+  html,               text/html
+  htm,                text/html
+  js,                 text/javascript
+  log,                text/plain; charset=utf-8
+  xml,                text/xml
+  ico,                image/x-icon

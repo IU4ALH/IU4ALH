@@ -1,0 +1,223 @@
+SPA, 4, latin
+BANDAS AFICIONADAS
+BANDAS DE RADIODIFUSION
+PASO SINTONIZACION
+FREQUENCIA
+Filtro en kHz
+MODULACION
+SCANNER BANDA
+AJUSTES
+MEMORIA
+CIUDAD
+BANDA
+FM
+VHF
+LW
+MW
+SW1
+SW2
+SW3
+SW4
+Relacion...
+Activacion...
+NOCHE
+NOCHE PRINCIPAL
+DIA PRINCIPAL
+DIA
+PERSONALIZACION
+PANTALLA
+SCANNER
+HARDWARE
+CONFIGURACION
+ITU regiones
+FM salida del 64 MHz
+Guardar paso para una sola banda
+sin titulo
+Iluminacion de fondo de digitos display
+INDICES DE PRESELECCION
+Protector de pantalla
+Desactivar la visualizacion en el protector de pantalla
+tiempo de espera en minutos de Salvapantalla 
+Orientaci0n de la pantalla
+Minimo Escala 
+Maximo Escala 
+Auto Escala
+Precision scanner
+Indicador de bateria
+Ver carga de la batería
+Beeper
+Wireless on
+Access point modo
+Seleccione AP
+Restablecer valores default
+Update de file
+ENE
+FEB
+MAR
+ABR
+MAY
+JUN
+JUL
+AGO
+SEP
+OCT
+NOV
+DIC
+kHz
+MHz
+LISTA DE MEMORIA
+Visualizar no relacionado con la ciudad
+Ver todas las ciudades conectadas
+Muestra solo la banda actual
+Wi-Fi AP
+Frecuencia no admitida
+CARGO POR DEFECTO?
+ACTUALIZAR FIRMWARE?
+GUARDAR CAMBIOS?
+-
+DESCARGAR FILE
+CARGAR FILE
+REINICIO...
+investigar redes...
+redes encontradas
+redes non encontradas
+Fecha:
+Hora:
+RETIRAR AP BINDING?
+CODIGO DE LICENCIA
+ACTIVAR LICENCIA
+en website harduino.ru
+CODIGO DE DESBLOQUEO
+Liberacion del codigo de licencia
+LIBERACION CODIGO ?
+firmware
+Software version:
+Fecha de compilacion:
+Codigo de licencia:
+Alimentacion:
+Carga:
+cargando
+cargado
+EEPROM storage:
+byte
+Libre:
+ON
+OFF
+DESCONECTADO
+clients:
+CONECTADO
+Frequencia:
+Banda:
+Modulacion:
+Paso sintonizacion:
+Longitu banda:
+Paso
+Hz
+Stereo:
+Volumen:
+EMISION DE LICENCIA
+ENTRADA INCORRECTA
+Nueva version disponible
+Condiciones HF
+Informacion no disponible
+Estaciones
+ELIMINAR CIUDAD?
+ELIMINAR ESTACIONES?
+ubicacion desconocida
+Tierra
+Buscar estaciones FM?
+Guardar?
+extraviado
+Hora en formato de 24 horas
+Temporizador de Vigilancia de Acceso a Internet
+Lista de bandas
+Conmutacion automatica de la antena
+RBDS tipo de programa
+Novedad
+Actualidades
+Informacion
+Deporte
+Educacion
+Drama
+Cultura
+Ciencia
+Entretenedor
+Musica pop
+Musica rock
+Musica ligera
+Clasico ligero
+Obras clasicas
+Musico
+Tiempo
+Finanza
+Infantil
+Publico
+Religion
+Transmision en vivo
+Viajes
+Ocio
+Musica jazz
+Musica Country
+Musica nacional
+Musica retro
+Musica popular
+Documental
+Comprobacion de la alarma
+Alarma
+Debates
+Rock clasico
+Hits para adultos
+Rock ligero
+Top 40
+Musica silenciosa
+Nostalgia
+Rhythm and blues
+Ritmo suave y blues
+Idioma
+Musica religiosa
+Personalidad
+Publico
+College
+Espanol
+Musica espanola
+Hip hop
+Coloree la frecuencia en SSB si BFO no es cero
+Tiempo RDS
+Reverso del codificador
+ACTIVACION COMPLETADA
+NOMBRE DE LA ESTACION
+CONTRASENA
+ELIMINAR ESTACION?
+oculto
+Medidor S retro
+Valor de la bateria en voltios
+Mostrar indicador de cascada
+Mostrar la bandera del pais en RDS
+Antena
+ENLACE ELIMINADO
+El codigo de solicitud ya se ha utilizado
+La clave es utilizada por otro dispositivo
+Falta ñlave
+ERROR por favor, intentalo de nuevo
+CODIGO PARA DESVINCULAR
+Alto voltaje de la bateria
+Comprueba tu llave
+Grafico 'en vivo' en pausa
+Codificador de medio paso
+Escaneo de SSB en modulacion AM
+ACTUALIZACION Y LICENCIA
+Restaurar configuracion
+Guardar configuracion
+Temperatura
+Modelo:
+Revision:
+Nucleo:
+Minimo:
+Decodificador CW y DIGI
+Envio de decodificado datos al puerto COM
+ESCALA RETRO
+Escala
+DESCODIFICADOR
+Suavizado de imagenes Feld-Hell
+Espectro de audio
+Advertencia sobre la salida del valor de los limites de la bateria

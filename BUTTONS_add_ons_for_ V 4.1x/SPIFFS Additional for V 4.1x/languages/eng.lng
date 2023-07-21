@@ -1,0 +1,223 @@
+ENG, 0, latin
+HAM RADIO BAND
+BROAD BAND
+STEP TUNE
+FREQUENCY
+Filter in kHz
+MODULATION
+BAND SCANNER
+SETUP
+MEMORY
+CITY
+BAND
+FM
+VHF
+LW
+MW
+SW1
+SW2
+SW3
+SW4
+Connection...
+Activation...
+NIGHT
+MOSTLY NIGHT
+MOSTLY DAY
+DAY
+PERSONALISATION
+DISPLAY
+SCANNER
+HARDWARE
+CONFIGURATION
+ITU region
+FM band start in 64 MHz
+Save step individual for band
+untitled
+Frequency digit backlight
+INDEXING PRESETS
+Screen saver
+Display light off in screen saver
+Wait time to saver in minutes
+Screen orientation
+Minimum scale
+Maximum scale
+Auto scale
+Scan accuracy
+Battery indicator
+Charge battery show
+Beeper
+Wireless on
+Access point mode
+Select AP
+Reset to factory default
+Update from file
+JAN
+FEB
+MAR
+APR
+MAY
+JUN
+JUL
+AUG
+SEP
+OCT
+NOV
+DEC
+kHz
+MHz
+MEMORY LIST
+View not city linked
+Viev all city linked
+View only from current band
+Wi-Fi AP
+Freqency not support
+LOAD DEFAULT?
+UPDATE FIRMWARE?
+SAVE CHANGES?
+-
+FILE DOWNLOAD
+FILE UPLOAD
+REBOOTING...
+search networks...
+networks found
+not found network
+Date:
+Time:
+DELETE AP BINDING?
+LICENSE KEY
+ACTIVATE LICENSE
+on website harduino.ru
+UNLOCK CODE
+Release license key
+RELEASE KEY?
+firmware
+Software version:
+Date building:
+License key:
+Power supply:
+Charge:
+charging
+charged
+EEPROM storage:
+byte
+Free:
+ON
+OFF
+DISCONNECTED
+clients:
+CONNECTED
+Frequency:
+Band:
+Modulation:
+Step tuning:
+Bandwidth:
+step
+Hz
+Stereo:
+Volume:
+RELEASE LICENSE
+INCORRECT INPUT
+A new version is available
+HF conditions
+no data available
+stations
+DELETE CITY?
+DELETE STATIONS?
+unknown location
+Earth
+Search for FM stations?
+Save?
+not found
+24-hour time format
+Internet Access Watchdog timer
+Bands list
+Automatic antenna switching
+RBDS Program type
+News
+Current affairs
+Information
+Sport
+Education
+Drama
+Culture
+Science
+Varied
+Pop music
+Rock music
+Easy listening
+Light classical
+Classical
+Other music
+Weather
+Finance
+Children’s programmes
+Social affairs
+Religion
+Phone-in
+Travel
+Leisure
+Jazz music
+Country music
+National music
+Oldies music
+Folk music
+Documentary
+Alarm test
+Alarm
+Talk
+Classic rock
+Adult hits
+Soft rock
+Top 40
+Soft music
+Nostalgia
+Rhythm and blues
+Soft rhythm and blues
+Language
+Religious music
+Personality
+Public
+College
+Spanish talk
+Spanish music
+Hip hop
+Highlight the frequency in SSB in color if the BFO is not zero
+RDS time
+Encoder reverse
+ACTIVATION COMPLETED
+STATION NAME
+PASSWORD
+DELETE STATION?
+hidden
+Retro S-meter
+Battery value in volts
+Show waterfall indicator
+Show country flag in RDS
+Antenna
+BINDING REMOVED
+The request code has already been used
+The key is used by another device
+The key is missing
+ERROR please try again
+CODE FOR UNBIND
+High battery voltage
+Check your key
+'Live' chart on pause
+Half step encoder
+Scanning SSB in AM modulation
+UPDATE & LICENSE
+Restore configuration
+Save configuration
+Temperature
+Model:
+Revision:
+Cores:
+Minimum:
+CW & DIGI decoder
+Decoded data send to COM port
+RETRO SCALE
+Scale
+DECODER
+Feld-Hell picture smoothing
+Audio spectrum
+Warning about exit of limits value of battery

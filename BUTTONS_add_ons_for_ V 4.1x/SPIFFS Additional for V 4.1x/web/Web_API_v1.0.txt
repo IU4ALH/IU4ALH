@@ -1,0 +1,164 @@
+GET
+----------
+frequency
+	0 - frequency
+	1 - units
+  	2 - minimum
+  	3 - maximum
+band
+	-1 current name
+	0 - 31 name
+bandtype
+	-1 current
+	n - all
+bfo
+	0 - value
+	1 - step
+step
+mode
+  	-1 current
+  	n - all
+bandwidth
+  	-1 current
+  	n - all
+volume
+	0 - value
+	1 - sq value
+	2 - mute on/off
+signal
+	0 - rssi
+	1 - snr
+	2 - stereo/mono
+	3 - stereo on/off
+attenuator
+	0 - AGC on/off
+	1 - ATT
+battery
+	0 - %
+	1 - volt
+	2 - charge
+	3 - no charge = 0, charge = 1, charged = 2
+wifi
+	0 - ssid
+	1 - rssi
+	2 - ip
+version
+itu
+vhf
+city
+	0 - name
+	1 - UTC
+time
+	0 - time
+	1 - date
+language
+  	-1 current language
+	n - name language
+langstr
+  	0 - last = lang string
+rds
+  	0 - on/off
+  	1 - station
+  	2 - info
+scan
+  	1 - 320   RSSI step
+  	-1 - -320 SNR step
+  	0 - pause
+  	-321  start frequency
+  	321   end frequency
+  	322   scale
+memosetup
+memo
+	n	- frequency memo n
+memoname
+	n	- name memo n
+memomode
+	n - mode memo n
+memocity
+	n - city memo n
+file
+  	result 0/1 and name or size file
+
+SET
+----------
+frequency=
+  	-1  step-
+  	1   step+
+  	n   value set AM
+	-n	value set FM
+band=
+  	0 - 31,100 value set
+bfo=
+  	n  -1999 - 1999 set value
+  	2000 - step change
+step=
+  	n   value set
+mode=
+  	n   value set
+bandwidth=
+  	n   value set
+volume=
+  	-n  n step- mute off
+  	n   n step+ mute off
+  	0   mute on
+sq=
+  	-n  n step-
+  	n   n step+
+stereo=
+  	0   off
+  	1   on
+attenuator=
+  	-1  AGC off
+  	0   AGC on 
+  	n   set ATT
+seek=
+  	-1  seek-
+  	1   seek+
+  	0   seek stop
+city=
+  	-1
+	1
+language=
+  	n
+rds=
+  	0   off
+  	1   on
+itu=
+  	n   region
+vhf=
+  	0   no 64MHz start
+  	1   64MHz start
+clock=
+  	0   12h
+  	1   24h
+beep=
+  	n
+display=
+  	0	off
+	1		on
+scan=
+  	n   start
+  	after start
+  	0   stop
+  	1 -1 frequency +/-
+  	2   pause on/off
+  	3   scale
+memo=
+	-1	add memo
+	n		set memo n
+memosetup=
+	0 - 7 setup list memo
+reset
+file=
+  	n   name file n to result
+  	-n  size file n to result
+  	0   count files
+filedelete=
+  	name
+fileexist=
+  	name
+  
+for form upload file:
+if "name" = "\" save file name = "filename"
+if "name" = "/name" save file name = "name"
+else if "name" != "filename" not save

@@ -1,0 +1,223 @@
+FRA, 7, latin
+BANDES RADIO-AMATEUR
+RADIODIFFUSION
+INCREMENT
+FREQUENCE
+Filtre en kHz
+MODULATION
+SCANNER DE BANDE
+CONFIGURATION
+MEMOIRE
+VILLE
+BANDE
+FM
+VHF
+LW
+MW
+SW1
+SW2
+SW3
+SW4
+Connexion...
+Activation...
+NUIT
+FREQUEMMENT LA NIGHT
+FREQUEMMENT LE JOUR
+JOUR
+PERSONALISATION
+AFFICHAGE
+SCANNER
+MATERIEL
+CONFIGURATION
+Region ITU
+La bande FM commence à 64 MHz
+Sauver le pas pour chaque bande
+Sans titre
+Eclairage de l'afficheur
+INDEXATION DES REGLAGES
+Economiseur d'ecran
+Eteindre l'ecran en mode economiseur
+Economiseur apres 
+Orientation de l'ecran
+Echelle minimale
+Echelle maximale
+Echelle automatique
+Balayage precis
+Indicateur de batterie
+Indicateur de charge de batterie
+Bipeur
+Wifi actif
+Mode point d'access
+Selection du reseau wifi
+Reinitialiser parametres d'usine
+Mise a jour depuis un fichier
+Janv
+Fevr
+Mars
+Avril
+Mai
+Juin
+Juil
+Aout
+Sept
+Oct
+Nov
+Dec
+kHz
+MHz
+MEMOIRES
+Vue non liee à la ville
+Voir toutes les villes liees
+Afficher uniquement à partir de la bande actuelle
+Point d'acces Wifi
+Freqence non supportee
+CHARGER DEFAUT?
+MISE A JOUR FIRMWARE?
+SAUVER LES CHANGEMENTS?
+-
+TELECHARGER UN FICHIER
+ENVOYER UN FICHIER
+REDEMARRAGE...
+recherche des reseaux...
+reseaux trouves
+pas de reseau trouve
+Date :
+Heure :
+SUPPRIMER LES POINTS D'ACCES?
+CLE DE LICENCE
+ACTIVER LA LICENCE
+sur le site web  harduino.ru
+CODE DE DEVEROUILLAGE
+Liberer la cle de licence
+LIBERER LA LICENCE?
+Micrologiciel
+Version du programme:
+Date:
+Licence:
+Alimentation:
+Charge:
+chargement
+charge
+Stockage EEPROM:
+octets
+Libre:
+ON
+OFF
+DECONNECTE
+clients:
+CONNECTE
+Frequence:
+Bande:
+Modulation:
+Increment:
+Largeur de bande:
+Pas
+Hz
+Stereo:
+Volume:
+LIBERER LA LICENCE
+SAISIE INCORRECTE
+A new version is available
+HF conditions
+no data available
+stations
+EFFACE LES VILLES
+EFFACE LES STATIONS?
+localisation inconnue
+Terre
+Recherche des stations FM?
+Sauver?
+pas trouve
+Heure au format 24h
+Internet Access Watchdog timer
+Liste des bandes
+Antenne automatique
+Programme type RBDS
+Infos
+Affaires courantes
+Information
+Sport
+Education
+Drames
+Culture
+Sciences
+Divers
+Pop 
+Rock
+Facile a ecouter
+Classique doux
+Classique
+Autre musique
+Meteo
+Finance
+Programmes enfants
+Affaires sociales
+Religion
+Phone-in
+Voyages
+Loisirs
+Jazz
+Musique Country
+Musique nationale
+Vieux tubes
+Musique Folk
+Documentaires
+Test d'alerte
+Alerte
+Discussions
+Rock classique
+Adult hits
+Rock 
+Top 40
+Musique douce
+Nostalgie
+Rhythm and blues
+Rhythm and blues
+Langues
+Musique religieuse
+Personalites
+PubliC
+CollEge
+Spanish talk
+musique espagnole
+Hip hop
+Frequence en couleur en SSB si le BFO different de zero
+RDS temps
+Encodeur inverse
+ACTIVATION REUSSIE
+NOM DE LA STATION
+MOT DE PASSE
+EFFACER LA STATION?
+Cache
+S-meter retro
+Batterie en volts
+Afficher la chute d'eau
+Afficher le drapeau du pays dans RDS
+Antenne
+ASSOCIATION EFFACEE
+Ce code a dejà ete utilise
+La cle est utilisee par un autre appareil
+La cle est manquante
+ERREUR essayez encore
+CODE POUR DISSOCIER
+Tension de batterie elevee
+Verifiez votre cle
+Graphique 'Live' en pause
+Half step encoder
+Scanning SSB in AM modulation
+UPDATE & LICENSE
+Restore configuration
+Save configuration
+Temperature
+Model:
+Revision:
+Cores:
+Minimum:
+Decodeur CW & DIGI
+Envoi au port COM des donnees recues
+Afficheur RETRO
+Echelle
+DECODEUR
+Imaqes fines Feld-Hell
+Spectre Audio
+Avertissement de charge excessive de la batterie

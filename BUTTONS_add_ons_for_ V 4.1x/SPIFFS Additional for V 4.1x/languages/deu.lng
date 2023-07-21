@@ -1,0 +1,223 @@
+DEU, 5, latin
+Amateurfunkband
+Rundfunkband
+STEP TUNE
+FREQUENZ
+Filter in kHz
+MODULATION
+BAND-SCANNER
+SETUP
+SPEICHER
+STADT
+BAND
+FM
+VHF
+LW
+MW
+KW1
+KW2
+KW3
+KW4
+Verbindung...
+Aktivierung ...
+NACHTS
+MEISTENS NACHTS
+MEISTENS TAGS
+TAGS
+PERSONALISIERUNG
+ANZEIGE
+SCANNER
+HARDWARE
+KONFIGURATION
+ITU- Region
+UKW-Band ab 64 MHz
+Abstimmschritt je Band speichern
+ohne Titel
+Frequenz Ziffer Hintergrundbeleuchtung
+INDEXIERVOREINSTELLUNGEN
+Bildschirmschoner
+Displaybeleuchtung im Bildschirmschoner aus
+Wartezeit Bildschirmschoner in Minuten
+Bildschirmausrichtung
+Minimaler Massstab
+Maximaler Massstab
+Automatische Skalierung
+Scan-Genauigkeit
+Batterieanzeige
+Anzeige Aufladen des Akkus
+Tastensignal
+WLAN an
+Access Point Modus
+AP auswaehlen
+Zuruecksetzen Werkeinstellungen
+Update von Datei
+JAN
+FEB
+MAR
+APR
+MAI
+JUNI
+JULI
+AUG
+SEP
+OKT
+NOV
+DEZ
+kHz
+MHz
+SPEICHERLISTE
+Ansicht nicht mit Stadt verknuepft
+Ansicht mit allen Staedten verknuepft
+Ansicht nur des aktuellen Bandes
+Wlan AP
+Frequenz nicht unterstuetzt
+STANDARD LADEN?
+FIRMWARE AKTUALISIEREN?
+AEND. SPEICHERN?
+-
+DATEI DOWNLOAD
+DATEI-UPLOAD
+NEUSTART...
+Netzwerke suchen...
+Netzwerke gefunden
+Kein Netzwerk gefunden
+Datum:
+Zeit:
+AP-ANBINDUNG LOESCHEN?
+LIZENZSCHLUESSEL
+LIZENZ AKTIVIEREN
+auf der Website harduino.ru
+UNLOCK CODE
+Lizenz freigeben
+TASTE LOSLASSEN?
+Firmware
+Softwareversion:
+Herstellungsdatum:
+Lizenzschluessel:
+Stromversorgung:
+Aufladung:
+aufladend
+aufgeladen
+EPROM-Speicher :
+byte
+Frei:
+AN
+AUS
+GETRENNT
+Clients:
+VERBUNDEN
+Frequenz :
+Band:
+Modulation:
+Abstimmschritt:
+Bandbreite:
+Schritt
+Hz
+Stereo:
+Lautstaerke:
+LIZENZ VEROEFFENTLICHEN
+FALSCHE EINGABE
+Neue Version verfuegbar
+HF-Bedingungen
+Keine Daten verfuegbar
+Stationen
+STADT LOESCHEN?
+SENDER LOESCHEN?
+Unbekannt Standort
+Erde
+UKW-Sender suchen?
+Speichern?
+nicht gefunden
+24-Stunden-Format
+Internetzugang ueberwachen (Timer)
+Liste der Baender
+Automatischer Antennenschalter
+RBDS-Programmtyp
+Nachricht
+Aktuelles
+Information
+Sport
+Ausbildung
+Theater
+Kultur
+Wissenschaft
+Vermischtes
+Popmusik
+Rockmusik
+Leichte Musik
+Leichter Klassiker
+Klassisch
+Andere Musik
+Wetter
+Finanzen
+Kinderprogramme
+Soziales
+Religion
+Anruf
+Reisen
+Freizeit
+Jazz
+Country
+Landesmusik
+Oldies
+Volksmusik
+Dokumentation
+Alarmtest
+Alarm
+Sprache
+Klassischer Rock
+Hits fuer Erwachsene
+Soft Rock
+Top 40
+Sanfte Musik
+Nostalgie
+Rhythm and Blues
+Sanfter Rhythm and Blues
+Sprache
+Religioes Musik
+Persoenliches
+Oeffentlich
+Hochschule
+Spanisch sprechen
+Spanische Musik
+HipHop
+SSB-Frequenz in Farbe hervorheben wenn BFO nicht null
+RDS-Zeit
+Encoder rueckwaerts
+AKTIVIERUNG ABGESCHLOSSEN
+STATIONSNAME
+PASSWORT
+STATION LOESCHEN?
+versteckt
+Retro-S-Meter
+Batteriewert in Volt
+Wasserfallanzeige Indikator
+Landesflagge anzeigen in RDS
+Antenne
+BINDUNG ENTFERNT
+Der Anforderungscode ist bereits benutzt
+Der Schluessel wird von anderem Geraet benutzt
+Der Schluessel fehlt
+FEHLER bitte nochmal versuchen
+CODE ZUM ABLOESEN
+Hohe Batteriespannung
+Uberprufen Sie Ihren Schlussel
+'Live' diagramm auf pause
+Halbschrittgeber
+Abtastung von SSB in AM-Modulation
+UPDATE & LIZENZ
+Konfiguration wiederherstellen
+Konfiguration speichern
+Temperatur
+Modell:
+Revision:
+Adern:
+Minimum:
+CW und DIGI decoder
+Dekodierten daten werden an den COM-Port gesendet
+RETRO-MABSTAB
+Skala
+DEKODIERER
+Feld-Hell Bildglattung
+Audiospektrum
+Warnung vor dem Verlassen des Grenzwertes der Batterie

@@ -1,0 +1,223 @@
+POL, 8, latin
+PASMO AMATORSKIE
+PASMO NADAWCZE
+KROK STROJENIA
+CZESTOTLIWOSC
+Filtr w KHz
+MODULACJA
+SKANER PASMA
+SETUP
+PAMIEC
+MIASTO
+PASMO
+FM
+VHF
+LW
+MW
+SW1
+SW2
+SW3
+SW4
+Laczenie...
+Aktywacja...
+NOC
+GLOWNIE NOC
+GLOWNIE DZIEN
+DZIEN
+PERSONALIZACJA
+WYSWIETLACZ
+SKANER
+SPRZET
+KONFIGURACJA
+Region ITU
+Pasmo FM start od 64 MHz
+Zapisz indywidualny krok dla pasma
+bez tytulu
+Podswietlenie cyfr czestotliwosci
+ODCZYTAJ PAMIEC
+Wygaszacz ekranu
+Wylacz podswietlenie wygaszacza ekranu
+Czas bezczynnosci w minutach
+Orientacja ekranu
+Skala minimalna
+Skala maksymalna
+Skala automatyczna
+Dokladnosc skanowania
+Wskazênik stanu baterii
+Wskazênik ladowania baterii
+Sygnal nacisniecia klawisza
+Wlacz Wi-Fi
+Tryb punktu dostepowego AP
+Wybierz punkt dostepu AP
+Reset do ustawien fabrycznych
+Aktualizacja z pliku
+STY
+LUT
+MAR
+KWI
+MAJ
+CZE
+LIP
+SIE
+WRZ
+PAè
+LIS
+GRU
+KHz
+MHz
+LISTA PAMIECI
+Widok niepowiazany z miastem
+Widok powiazany ze wszystkimi miastami
+Wyswietl tylko biezace pasmo
+Wi-Fi Access Point
+Czestotliwosc nieobslugiwana
+ZALADOWAC DOMYSLNE?
+ZAKTUALIZOWAC FIRMWARE?
+ZAPISAC ZMIANY?
+-
+WYSYLANIE PLIKU
+POBIERANIE PLIKU
+PONOWNE URUCHOMIENIE...
+wyszukiwanie sieci...
+znalezione sieci
+nie znaleziono sieci
+Data:
+Czas:
+USUNAC POWIAZANIE AP?
+KLUCZ LICENCYJNY
+AKTYWUJ LICENCJE
+na stronie internetowej harduino.ru
+KOD ODBLOKOWUJACY
+Zwolnij klucz licencyjny
+ZWOLNIC KLUCZ?
+oprogramowanie firmware
+Wersja oprogramowania:
+Data wydania:
+Klucz aktywacyjny:
+Bateria:
+Ladowarka:
+ladowanie
+naladowany
+Zajetosc EEPROM:
+bajt
+Wolne:
+ZAL
+WYL
+ROZLACZONY
+klienci:
+POLACZONY
+Czestotliwosc:
+Pasmo:
+Modulacja:
+Krok strojenia:
+Szerokosc pasma:
+krok
+Hz
+Stereo:
+Glosnosc:
+WYDANIE LICENCJI
+NIEPRAWIDLOWE WPROWADZENIE
+Dostepna jest nowa wersja
+Warunki HF
+brak dostepnych danych
+stacje
+USUNAC MIASTO?
+USUNAC STACJE?
+nieznana lokalizacja
+Ziemia
+Wyszukac stacje FM?
+Zapisac?
+nie znaleziono
+24-godzinny format czasu
+Watchdog timer dostepu do internetu
+Lista pasm
+Automatyczne przelaczanie anteny
+Typ programu RBDS
+Aktualnosci
+Sprawy biezace
+Informacje
+Sport
+Edukacja
+Dramat
+Kultura
+Nauka
+Urozmaicony
+Muzyka popowa
+Muzyka rockowa
+Muzyka lekka
+Lekka klasyka
+Klasyczna
+Muzyka
+Pogoda
+Finanse
+Dzieci
+Publiczny
+Religia
+Na zywo
+Turystyka
+Wypoczynek
+Muzyka jazzowa
+Muzyka country
+Muzyka narodowa
+Muzyka retro
+Muzyka ludowa
+Dokumentalne
+Test alarmu
+Alarm
+Dyskusje
+Klasyczny rock
+Hity dla doroslych
+Soft rock
+Top 40
+Soft music
+Nostalgia
+Rhythm and blues
+Soft rhythm and blues
+Jezyk
+Muzyka religijna
+Osobowosc
+Publiczny
+Szkola wyzsza
+Hiszpanski
+Hiszpanska muzyka
+Hip hop
+Podswietl czestotliwosc w SSB jesli BFO nie jest zero
+Czas RDS
+Encoder do tylu
+AKTYWACJA ZAKONCZONA
+NAZWA STACJI
+HASLO
+USUNAC STACJE?
+ukryty
+S-meter retro
+Naladowanie akumulatora w woltach
+Pokaz wskaênik wodospadu
+Pokaz flage kraju w RDS
+Antena
+LINK USUNIETY
+Kod wydania zostal juz wykorzystany
+Klucz jest uzywany przez inne urzdzenie
+Brak klucza
+BLAD - sprobuj ponownie
+ODKRYWANIE KODU
+Wysokie napiecie akumulatora
+Sprawdê swoj klucz
+Wykres na zywo wstrzymany
+Enkoder 1/2 kroku
+Skanowanie SSB w modulacji AM
+AKTUALIZACJA I LICENCJA
+Przywroc konfiguracje
+Zapisz konfiguracje
+Temperatura
+Model:
+Rewizja:
+Rdzenie:
+Minimum:
+CW & DIGI dekoder
+Wysylanie zdekodowanych danych do portu COM
+SKALA RETRO
+Skala
+DEKODER
+Feld-Hell Wygladzanie obrazu
+Widmo audio
+Ostrzezenie o napieciu baterii poza limitem
