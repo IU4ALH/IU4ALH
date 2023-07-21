@@ -1,3 +1,4 @@
+  Additional SPIFFS for V 4.15  V 4.16
 
 Set of  Color_modif buttons/ Black_&_white buttons/ Christmas buttons for H-RADIO 4.1x firmware
 02.12.2022 http://harduino.ru
