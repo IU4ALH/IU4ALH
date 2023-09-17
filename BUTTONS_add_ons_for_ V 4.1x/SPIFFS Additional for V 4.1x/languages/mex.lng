@@ -1,0 +1,227 @@
+SPA, 4, latin //Spanish
+BANDAS AFICIONADOS
+BANDAS RADIODIFUSION
+PASO SINTONIA
+FRECUENCIA
+Filtro en kHz
+MODULACION
+ESCANEAR BANDA
+AJUSTES
+MEMORIA
+CIUDAD
+BANDA
+FM
+VHF
+LW
+MW
+SW1
+SW2
+SW3
+SW4
+Conexion...
+Activacion...
+NOCHE
+NOCTURNO
+DIURNO
+DIA
+PERSONALIZACION
+PANTALLA
+ESCANER
+HARDWARE
+CONFIGURACION
+Region ITU
+Banda FM desde 64 MHz
+Guardar paso para cada banda
+Sin nombre
+Iluminacion de fondo de digitos pantalla
+INDEXANDO REGISTROS
+Protector de pantalla
+Desactivar la visualizacion en el protector de pantalla
+Tiempo de espera en minutos del protector de pantalla 
+Orientacion de la pantalla
+Escala Minimo
+Escala Maximo
+Auto Escala
+Exactitud escaneo
+Indicador de bateria
+Ver carga de la bateria
+Beeper
+Wireless ON
+Modo AP
+Seleccionar AP
+Restablecer valores de fabrica
+Actualizar archivo
+ENE
+FEB
+MAR
+ABR
+MAY
+JUN
+JUL
+AGO
+SEP
+OCT
+NOV
+DIC
+kHz
+MHz
+LISTA DE MEMORIA
+Ver ciudades no enlazadas
+Ver todas las ciudades enlazadas
+Ver solo la banda actual
+Wi-Fi AP
+Frecuencia no valida
+VALORES DE FABRICA?
+ACTUALIZAR FIRMWARE?
+GUARDAR CAMBIOS?
+BATERIA
+DESCARGANDO ARCHIVO
+CARGANDO ARCHIVO
+REINICIO...
+Buscando redes...
+Redes encontradas
+Redes no encontradas
+Fecha:
+Hora:
+RETIRAR AP BINDING?
+CODIGO DE LICENCIA
+ACTIVAR LICENCIA
+en sitio web harduino.ru
+CODIGO DE DESBLOQUEO
+Liberacion del codigo de licencia
+LIBERACION CODIGO ?
+Firmware
+Version Software:
+Fecha compilacion:
+Codigo licencia:
+Alimentacion:
+Carga:
+Cargando
+Cargado
+EEPROM usado:
+byte
+Libre:
+ON
+OFF
+DESCONECTADO
+Clientes:
+CONECTADO
+Frecuencia:
+Banda:
+Modulacion:
+Paso sintonizacion:
+Ancho de banda:
+Paso
+Hz
+Estereo:
+Volumen:
+EMISION DE LICENCIA
+ENTRADA INCORRECTA
+Nueva version disponible
+Condiciones HF
+Informacion no disponible
+Estaciones
+ELIMINAR CIUDAD?
+ELIMINAR ESTACIONES?
+Ubicacion desconocida
+Tierra
+Buscar estaciones FM?
+Guardar?
+No encontrado
+Hora en formato 24 horas
+Temporizador de Vigilancia de Acceso a Internet
+Lista de bandas
+Seleccion automatica antena
+RBDS por tipo de programacion
+Noticias
+Actualidades
+Informacion
+Deporte
+Educacion
+Drama
+Cultura
+Ciencia
+Entretenimiento
+Musica pop
+Musica rock
+Musica ligera
+Clasico ligero
+Obras clasicas
+Otra Musica
+Clima
+Finanzas
+Infantil
+Social
+Religion
+Transmision en vivo
+Viajes
+Ocio
+Musica jazz
+Musica country
+Musica nacional
+Musica retro
+Musica popular
+Documental
+Prueba de la alarma
+Alarma
+Debates
+Rock clasico
+Hits para adultos
+Rock ligero
+Top 40
+Musica tranquila
+Nostalgia
+Ritmo y blues
+Ritmo suave y blues
+Idioma
+Musica religiosa
+Personalidad
+Publico
+Estudiantil
+Espanol
+Musica espanol
+Hip hop
+Colorea la frecuencia en SSB si BFO no es cero
+Hora RDS
+Codificador invertido
+ACTIVACION COMPLETADA
+NOMBRE DE LA ESTACION
+CONTRASENA
+ELIMINAR ESTACION?
+Oculto
+Medidor S retro
+Indicador bateria en volts
+Mostrar indicador de cascada
+Mostrar la bandera del pais en RDS
+Antena FM
+ENLACE ELIMINADO
+El codigo solicitado ya se utilizo
+La clave es utilizada en otro dispositivo
+Falta clave
+ERROR por favor intentalo de nuevo
+CODIGO PARA DESVINCULAR
+Alto voltaje de la bateria
+Comprueba tu llave
+Grafico 'en vivo' en pausa
+Codificador de medio paso
+Escaneo de SSB en modulacion AM
+ACTUALIZACION Y LICENCIA
+Restaurar configuracion
+Guardar configuracion
+Temperatura:
+Modelo:
+Revision:
+Nucleos:
+Minimo:
+Decodificador CW y DIGI
+Envio de datos decodificados al puerto COM
+DIAL RETRO
+Dial
+DECODIFICADOR
+Suavizado de imagenes Feld-Hell
+Espectro de audio
+Advertencia fuera de los valores limite de la bateria
+ANTENA
+LNA
+Entrada antena HI-Z
+Filtro de RF
