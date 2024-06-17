@@ -1,8 +1,0 @@
-This modification of the PCB V 24 (but which is also valid for the other versions of PCB
- that mount a Bluetooth card) has become necessary because unfortunately Bluetooth 
-transmission cards arrive from the Chinese market with poor performance and in any case,
- even if in fact they appear , are not similar to each other in their operating parameters.
- In fact, some cards need a greater audio signal intensity to function; for this reason
- the simple modification ensures that the audio signal arriving at the BT card is taken 
-not from the Si4732/35 chip, but from the subsequent PT2308 audio chip (the one which 
-drives the headphone output).
